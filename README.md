@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-Im High School Student who triying to Learn Programing
+I’m a high school student who is new to coding and currently learning Python from the basics. I
+focus on understanding how code works, improving my problem‑solving skills, and building a strong
+foundation using Visual Studio and GitHub.
+This profile is where I share my progress, experiments, and small projects as I learn.
 
 🧠 What I’m Learning
 
