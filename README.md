@@ -3,14 +3,16 @@
 <!--
 **rrayan7523/rrayan7523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🧠 What I’m Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python fundamentals
+- Basic programming logic
+- How to read and understand code
+- How to use GitHub to save and share projects
+
+🎯 My Goals
+
+- Build simple but useful projects
+- Write clean and understandable code
+- Keep learning and improving every day
+- Become confident in programming
