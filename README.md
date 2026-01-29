@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Im High School Student who triying to Learn Programing
+
 🧠 What I’m Learning
 
 - Python fundamentals
