@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **rrayan7523/rrayan7523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🧠 What I’m Learning
